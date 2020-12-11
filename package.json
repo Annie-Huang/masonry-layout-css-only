@@ -1,0 +1,20 @@
+{
+  "name": "masonry-layout-css-only",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annie-Huang/masonry-layout-css-only.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annie-Huang/masonry-layout-css-only/issues"
+  },
+  "homepage": "https://github.com/Annie-Huang/masonry-layout-css-only#readme"
+}
