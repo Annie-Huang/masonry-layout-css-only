@@ -1,6 +1,8 @@
 .grid {
   max-width: 60rem;
   margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 }
 
 
