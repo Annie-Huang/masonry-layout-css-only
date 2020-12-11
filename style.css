@@ -6,11 +6,20 @@
   gap: 1em;
 }
 
+.grid > * {
+  break-inside: avoid;
+  margin-bottom: 1em;
+}
+
 @supports (grid-template-rows: masonry) {
   .grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: masonry;
+  }
+  .grid > * {
+    break-insie: avoid;
+    margin-bottom: 0;
   }
 }
 
