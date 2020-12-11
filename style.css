@@ -7,6 +7,9 @@
   grid-template-rows: masonry;
 }
 
+.featured {
+    grid-column: span 2;
+}
 
 :root {
   --ff-primary: basic-sans, sans-serif;
