@@ -1,6 +1,6 @@
 .grid {
   --gap: 1em;
-  --columns: 2;
+  --columns: 3;
 
   max-width: 60rem;
   margin: 0 auto;
